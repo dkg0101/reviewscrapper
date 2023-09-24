@@ -1,0 +1,122 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Displyaing homepage
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:37:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=iphone7
+INFO:root:Product link is https://www.flipkart.com/apple-iphone-7-black-32-gb/p/itmen6daftcqwzeg?pid=MOBEMK62PN2HU7EE&lid=LSTMOBEMK62PN2HU7EEINTGNU&marketplace=FLIPKART&q=iphone7&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=3ad05634-513f-44b6-8b21-4fff74940831.MOBEMK62PN2HU7EE.SEARCH&ppt=None&ppn=None&ssid=epzzehyhts0000001695535672753&qH=c848b7081ba96a14
+INFO:root:opened file: iphone7.csv for writing reviews
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:37:52] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:37:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=iphone11
+INFO:root:Product link is https://www.flipkart.com/apple-iphone-11-white-128-gb/p/itme32df47ea6742?pid=MOBFWQ6B7KKRXDDS&lid=LSTMOBFWQ6B7KKRXDDSULUZ0N&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=e43db212-cf77-49c1-be9f-1366dfe8682b.MOBFWQ6B7KKRXDDS.SEARCH&ppt=None&ppn=None&ssid=he7c2eskxs0000001695535696490&qH=d6db477051465f9a
+INFO:root:opened file: iphone11.csv for writing reviews
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:38:16] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:38:16] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=Handsonmachinelearining
+INFO:root:The Exception message is: list index out of range
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:40:39] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=no
+INFO:root:The Exception message is: list index out of range
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:40:47] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=nokia
+INFO:root:Product link is https://www.flipkart.com/nokia-2660-flip-4g-volte-black-keypad-mobile-dual-sim-screen-mp3-player/p/itmbf5c2ae09e391?pid=MOBGH9EWHZTZT3NT&lid=LSTMOBGH9EWHZTZT3NTIPXMMD&marketplace=FLIPKART&q=nokia&store=search.flipkart.com&srno=s_1_9&otracker=search&fm=organic&iid=995a18ae-62f3-45da-895d-0a45ad802362.MOBGH9EWHZTZT3NT.SEARCH&ppt=None&ppn=None&ssid=37rp03tjj40000001695535855182&qH=0c23a8bf29a191f1
+INFO:root:opened file: nokia.csv for writing reviews
+INFO:root:Details for productnokia added successfully!
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:40:55] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 11:40:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=vivo
+INFO:root:Product link is https://www.flipkart.com/vivo-t2x-5g-glimmer-black-128-gb/p/itmcb8f0f6a85d5d?pid=MOBGZBFUF389GDMP&lid=LSTMOBGZBFUF389GDMPKCQWJ4&marketplace=FLIPKART&q=vivo&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=c9033a7a-29e2-4037-a593-a1d7b816a221.MOBGZBFUF389GDMP.SEARCH&ppt=None&ppn=None&ssid=o81kir4ytc0000001695537023870&qH=b09207f5c299c427
+INFO:root:opened file: vivo.csv for writing reviews
+INFO:root:Details for product:'vivo' added successfully!
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 12:00:24] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 12:00:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
