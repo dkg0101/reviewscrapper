@@ -120,3 +120,38 @@ INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 12:00:24] "[37mPOST /review HTTP/1.1[
 INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 12:00:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug: * Detected change in 'D:\\Downloads\\ReviewFlask\\ReviewFlask\\app.py', reloading
 INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 162-410-828
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Displyaing homepage
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 13:09:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=iphone11
+INFO:root:Product link is https://www.flipkart.com/apple-iphone-11-white-128-gb/p/itme32df47ea6742?pid=MOBFWQ6B7KKRXDDS&lid=LSTMOBFWQ6B7KKRXDDSULUZ0N&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=74831f94-d3ff-4693-8d16-9a2a729e6113.MOBFWQ6B7KKRXDDS.SEARCH&ppt=None&ppn=None&ssid=7ccdzfl8r40000001695541188288&qH=d6db477051465f9a
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=iphone11
+INFO:root:opened file: iphone11.csv for writing reviews
+INFO:root:Details for product:'iphone11' added successfully!
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 13:09:48] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:Product link is https://www.flipkart.com/apple-iphone-11-white-128-gb/p/itme32df47ea6742?pid=MOBFWQ6B7KKRXDDS&lid=LSTMOBFWQ6B7KKRXDDSULUZ0N&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=df8c73eb-26fc-4b56-a70a-6237fe6c5c86.MOBFWQ6B7KKRXDDS.SEARCH&ppt=None&ppn=None&ssid=27z5qo5zr40000001695541189814&qH=d6db477051465f9a
+INFO:root:opened file: iphone11.csv for writing reviews
+INFO:root:Details for product:'iphone11' added successfully!
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 13:09:50] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 13:09:50] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 810-124-513
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Displyaing homepage
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 16:53:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 16:53:39] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 16:53:39] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 16:53:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:review scrapping process initiated
+INFO:root:Url for searching product item is https://www.flipkart.com/search?q=krishnaik
+INFO:root:Product link is https://www.flipkart.com/indianara-set-5-krishna-wall-hanging-decor-digital-reprint-30-inch-x-11-painting/p/itm11af9ebf5d470?pid=PTGGHS7CZ5WZCZXV&lid=LSTPTGGHS7CZ5WZCZXVCKJ7QV&marketplace=FLIPKART&q=krishnaik&store=search.flipkart.com&srno=s_1_9&otracker=search&fm=organic&iid=f78626ed-5e3e-425f-9551-b4c0706241f6.PTGGHS7CZ5WZCZXV.SEARCH&ppt=None&ppn=None&ssid=78momb9beo0000001695641035892&qH=b20ff41a72080d8e
+INFO:root:opened file: krishnaik.csv for writing reviews
+INFO:root:Details for product:'krishnaik' added successfully!
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 16:53:55] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 16:53:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
